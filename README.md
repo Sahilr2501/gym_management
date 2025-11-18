@@ -1,6 +1,6 @@
 # GYM Management System — Frontend
 
-A single-page React application for managing gym members, memberships, attendance, and payments using dummy data only.
+A single-page React application for managing gym members, memberships, attendance, and payments without database.
 
 ## Features
 
